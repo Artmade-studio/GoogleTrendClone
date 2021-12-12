@@ -2,7 +2,7 @@
 
 ## Solution preview 😎
 
-[website link](https://google-trend-clone.vercel.app)
+[website link only desktop](https://google-trend-clone.vercel.app)
 
 ## The challenge
 
