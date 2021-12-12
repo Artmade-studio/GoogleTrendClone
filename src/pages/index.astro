@@ -1,0 +1,16 @@
+---
+// Component Imports
+import BaseLayout from "/src/layouts/BaseLayout.astro";
+import Picker from "/src/components/Picker.jsx";
+import TextGrid from "/src/components/TextGrid.jsx";
+
+// Full Astro Component Syntax:
+// https://docs.astro.build/core-concepts/astro-components/
+---
+
+<BaseLayout title="Grig Challange">
+  <Picker client:load />
+  <div class="w-full border-black">
+    <TextGrid client:load />
+  </div>
+</BaseLayout>
