@@ -66,7 +66,7 @@ const Text = ({ transition }) => {
   return (
     <div class={`w-full h-full ${bgColor}`}>
       <div
-        class={`w-full h-full p-11 flex items-center ${color}`}
+        class={`w-full h-full p-11 sm:p-1 flex items-center ${color}`}
         ref={(el) => (background = el)}
       >
         <h1
