@@ -11,7 +11,7 @@ i wanted to make google ui Dimension Picker tool that appears in [Google trend s
 ## Tools I used
 
 - [Astor Build](https://github.com/snowpackjs/astro)
-- Preact
+- [Preact](https://preactjs.com/)
 - [Tailwind](https://github.com/tailwindlabs/tailwindcss)
 - [Gsap](https://greensock.com/)
 - [Nanostores](https://github.com/nanostores/nanostores)
