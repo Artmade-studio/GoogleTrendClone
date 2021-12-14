@@ -17,7 +17,7 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
         $src: path.resolve('./src'),
         $components: path.resolve('./src/components'),
         $layouts: path.resolve('./src/layouts'),
-        $api: path.resolve('./src/api'),
+        $layouts: path.resolve('./src/api'),
       },
     },
     define: {
