@@ -1,5 +1,7 @@
 # Google Trends Page Clone
 
+![2022-05-02 21-32-11_1](https://user-images.githubusercontent.com/89075199/166312343-5077d233-3d98-4e31-81ea-426b80c63fe2.gif)
+
 ## Solution preview 😎
 
 [website link](https://google-trend-clone.vercel.app)
